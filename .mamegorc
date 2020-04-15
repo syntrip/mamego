@@ -1,0 +1,12 @@
+### --- main ---
+rompath /usr/local/share/games/mame/roms/
+#rompath /home/juan/games/roms/mame/
+
+### --- theme ---
+## Valid colors: default, black, red, green, yellow, blue, magenta, cyan, white
+#item_fg_color white
+#item_bg_color black
+#item_selected_fg_color default # black
+#item_selected_bg_color green
+item_selected_fg_color black
+item_selected_bg_color red
